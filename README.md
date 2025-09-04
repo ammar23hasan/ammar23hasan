@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ammar23hasan&layout=compact&theme=radical"/>
 </p>
 
 ---
@@ -21,7 +21,7 @@
 ### 🚀 Tech Stack
 <p align="center">
   <!-- Web & Tools -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,tailwind,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mysql,git,github,vscode" />
 </p>
 <p align="center">
   <!-- Programming Languages -->
@@ -37,6 +37,6 @@
 
 ### 📫 Connect with Me
 <p align="center">
-  <a href="https://github.com/USERNAME"><img src="https://skillicons.dev/icons?i=github" /></a>
-  <a href="https://www.linkedin.com/in/USERNAME"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://github.com/ammar23hasan"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="https://www.linkedin.com/in/ammar-hasan-240763286"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 </p>
