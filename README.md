@@ -6,34 +6,21 @@
 
 ---
 
-### 🧩 Problem Solving
-<p align="center">
-  <a href="https://www.codewars.com/users/ammar23hasan">
-    <img src="https://www.codewars.com/users/ammar23hasan/badges/large" alt="Codewars"/>
-  </a>
-  <br/>
-  <a href="https://leetcode.com/ammar23hasan/">
-    <img src="https://leetcard.jacoblin.cool/ammar23hasan?theme=dark&font=Karma&ext=heatmap" alt="LeetCode"/>
-  </a>
-</p>
-
----
-
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?ammar23hasan=ammar23hasan&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ammar23hasan&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=radical" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?ammar23hasan=ammar23hasan&layout=compact&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=radical"/>
 </p>
 
 ---
 
 ### 🚀 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql,git,github,vscode,react" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql,git,github,vscode,react,nodejs,tailwind" />
 </p>
 
 ---
