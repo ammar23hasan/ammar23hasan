@@ -25,7 +25,7 @@
 </p>
 <p align="center">
   <!-- Programming Languages -->
-  <img src="https://skillicons.dev/icons?i=java,flutter,dart,postman,cs,python,ae,ai" />
+  <img src="https://skillicons.dev/icons?i=java,figma,flutter,dart,postman,cs,python,ae,ai,ps" />
 </p>
 
 ---
