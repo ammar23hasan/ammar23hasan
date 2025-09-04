@@ -25,7 +25,7 @@
 </p>
 <p align="center">
   <!-- Programming Languages -->
-  <img src="https://skillicons.dev/icons?i=java,cs,python" />
+  <img src="https://skillicons.dev/icons?i=java,flutter,dart,postman,cs,python,ae,ai" />
 </p>
 
 ---
@@ -39,4 +39,6 @@
 <p align="center">
   <a href="https://github.com/ammar23hasan"><img src="https://skillicons.dev/icons?i=github" /></a>
   <a href="https://www.linkedin.com/in/ammar-hasan-240763286"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+    <a href="https://www.instagram.com/ammar_alhasan2/"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+
 </p>
