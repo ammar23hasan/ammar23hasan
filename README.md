@@ -20,8 +20,9 @@
 
 ### 🚀 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,c#,js,mysql,git,github,vscode,react,java,nodejs,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,mysql,git,github,vscode,react,nodejs,tailwind,java,cs,python" />
 </p>
+
 
 ---
 ### ✨ Fun Fact
