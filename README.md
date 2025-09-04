@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi there, I'm Amma Hasan</h1>
 
 <p align="center">
-  🌍 Software Developer from Syria · 💻 Passionate about Web & Backend Development · 🚀 Lifelong Learner
+  🌍 Software Developer from Syria · 💻 Passionate about API Development & Backend · 🚀 Lifelong Learner
 </p>
 
 ---
