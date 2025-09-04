@@ -24,8 +24,7 @@
 </p>
 
 ---
-
 ### ✨ Fun Fact
-> "كل يوم سطر كود جديد = خطوة أقرب للحلم" 💡
+> "One line of code a day = one step closer to the dream" 💡
 
 ---
