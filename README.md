@@ -21,7 +21,7 @@
 ### 🚀 Tech Stack
 <p align="center">
   <!-- Web & Tools -->
-  <img src="https://skillicons.dev/icons?i=html,spring,css,js,react,nodejs,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mysql,spring,git,github,vscode" />
 </p>
 <p align="center">
   <!-- Programming Languages -->
